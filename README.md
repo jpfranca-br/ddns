@@ -37,8 +37,8 @@ pip install flask requests
 1. Clone this repository or download the script files:
 
 ```bash
-git clone https://github.com/yourusername/cloudflare-ddns.git
-cd cloudflare-ddns
+git clone https://github.com/jpfranca-br/ddns.git
+cd ddns
 ```
 
 2. Create a configuration file named `config.ini` with the following structure:
